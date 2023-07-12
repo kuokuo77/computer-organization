@@ -68,6 +68,7 @@
 * mux由**control unit**控制
 
 ![](https://hackmd.io/_uploads/SJS1uY9Fh.png)
+![image](https://github.com/kuokuo77/computer-organization/blob/main/datapath.png)
 
 ## Datapath for Control
 
